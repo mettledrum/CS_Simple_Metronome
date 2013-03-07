@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timerExample1", "timerExample1\timerExample1.csproj", "{E4A434F4-462C-49EC-9DF6-9BBB98B5423B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4A434F4-462C-49EC-9DF6-9BBB98B5423B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A434F4-462C-49EC-9DF6-9BBB98B5423B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A434F4-462C-49EC-9DF6-9BBB98B5423B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A434F4-462C-49EC-9DF6-9BBB98B5423B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
